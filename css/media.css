@@ -1,0 +1,237 @@
+@media (max-width:575px) {
+    .headermid {
+        flex-direction: column;
+        justify-content: center;
+
+    }
+
+    .headermid figure img {
+
+        width: 120px;
+    }
+
+    .headerright {
+        gap: 5px;
+    }
+
+    .headerright .chatbtn,
+    .headerright .callbtn {
+        padding: 5px 5px;
+        gap: 2px;
+    }
+
+    .maincontent {
+        flex-direction: column;
+    }
+
+    .maincontent .contentleft p {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .maincontent .contentleft h5 {
+        font-size: 28px;
+        text-align: center;
+    }
+.contentleft ul div
+{
+    padding-left: 15px;
+    gap: 15px;
+}
+    .contentbuttn .contentbuttn1,
+    .contentbuttn .contentbuttn2 {
+        flex-basis: 47%;
+        font-size: 12px;
+    }
+
+    .contentbuttn button {
+        padding: 8px 12px;
+    }
+
+    .contentmatter {
+
+        flex-basis: 47%;
+        margin-left: 18px;
+    }
+
+    .contentmatter1 h3 {
+        font-size: 12px;
+    }
+
+    .contentmatter1 p {
+        font-size: 8px;
+    }
+
+    .midcontent2box1 {
+        flex-basis: 97%;
+        margin: 1.5%;
+    }
+
+    .midcontent2box1 h5 {
+        font-size: 15px;
+    }
+
+    .midcontent2 h4 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .midcontent2 p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .main4 h3 {
+
+        font-size: 15px;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .main4 p {
+        font-size: 12px;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .main4content {
+        flex-wrap: wrap;
+
+    }
+
+    .main4content1 {
+        text-align: center;
+        flex-basis: 97%;
+    }
+
+    .main5mid {
+        display: flex;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+
+    .main5midcontentleft,
+    .main5midcontentright {
+        flex-basis: 97%;
+    }
+
+    .main5midcontentleft>h4,
+    .main5midcontentleft>p {
+        text-align: center;
+    }
+
+    .main5midcontentleft>button {
+        margin-left: 60px;
+        /* align-items: center; */
+    }
+
+    .main5midcontentright {
+        margin-top: 25px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    .main6mid nav ul {
+        flex-direction: column;
+        margin: 1.5%;
+    }
+
+    .main6mid h3
+    {
+        font-size: 24px;
+     
+    }
+    .main6content
+    {
+        flex-basis: 97%;
+        margin: 1.5%;
+        flex-direction: column;
+    }
+    .main6contentleft, .main6contentright
+    {
+        box-shadow: 0px 0px 5px 1px #ccc;
+    }
+ 
+    .main6contentleft ul div i, .main6contentleft ul div li,  .main6contentright ul div i, .main6contentright ul div li
+    {
+        font-size: 18px;
+        padding-left: 5px;
+    }
+    .main7mid>h4
+    {
+        font-size: 28px;
+        text-align: center;
+    }
+    .main7mid>p {
+        font-size:12px;
+        margin: 2.5%;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .main7content1
+    {
+        flex-basis: 97%;
+        margin: 1.5%;
+    }
+   
+    .main8mid>h3
+    {
+        width:70%;
+        font-size: 28px;
+    }
+    .main8content
+    {
+        margin-bottom: 10px;
+        flex-direction: column;
+    }
+    .main8content1
+
+    {
+        justify-content: center;
+    }
+    .main8content1 h3, .main8content1 p{
+        width: 100%;
+        font-size: 16px;
+    }
+    .main8content1 button
+    {
+        padding: 15px 25px;
+       
+    } 
+    .main8contentbg .imgleft,   .main8contentbg .imgright
+    {
+        display: none;
+    }
+    .main9mid
+    {
+        justify-content: center;
+    }
+    .main9midheading
+    {
+        width: 100%;
+        font-size: 20px;
+    }
+    .main9midcontent, .main9midcontent1
+    {
+        width: 97%;
+        margin: 1.5%;
+    }
+    .main10mid>h4 
+    {
+        font-size: 22px;
+    }
+    .main10img
+
+    {
+        width: 97%;
+        margin: 1.5%;
+    }
+    .footermid>div>p
+    {
+        width: 97%;
+        margin: 1.5%;
+        font-size: 16px;
+        margin-bottom: 10px;
+       
+    }
+}
