@@ -386,7 +386,6 @@ figure img {
     font-weight: 400;
     text-align: justify;
 }
-
 /*  CAREER OPTIONS COURSE PART END */
 
 
@@ -448,8 +447,11 @@ figure img {
     background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
     border-radius: 8px;
     border-image-source: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
-    margin-left: 42%;
 
+
+}
+.main5midcontentleft .btn{
+    text-align: center;
 }
 
 .main5content {

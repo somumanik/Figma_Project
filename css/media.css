@@ -120,12 +120,7 @@
         text-align: center;
     }
 
-    .main5midcontentleft>button {
-        margin-left: 60px;
-        /* align-items: center; */
-    }
-
-    .main5midcontentright {
+   .main5midcontentright {
         margin-top: 25px;
         margin-bottom: 0px;
         padding-bottom: 0px;
@@ -136,6 +131,7 @@
         margin: 1.5%;
     }
 
+    
     .main6mid h3
     {
         font-size: 24px;
