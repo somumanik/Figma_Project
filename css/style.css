@@ -23,7 +23,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0px 0px 2px 1px #ccc;
+    /* box-shadow: 0px 0px 2px 1px #ccc; */
 }
 
 .headerright {
@@ -73,7 +73,7 @@ header {
     max-width: 1170px;
     margin: auto;
     /* border: 1px solid orange; */
-    box-shadow: 0px 0px 2px 1px #ccc;
+    /* box-shadow: 0px 0px 2px 1px #ccc; */
 }
 
 .maincontent {
@@ -245,7 +245,7 @@ form {
 .midcontent2 {
     max-width: 1170px;
     margin: auto;
-    box-shadow: 0px 0px 5px 1px #ccc;
+    /* box-shadow: 0px 0px 5px 1px #ccc; */
 }
 
 .midcontent2 h4 {
@@ -278,6 +278,7 @@ form {
     display: flex;
     align-items: center;
     gap: 25px;
+    background: white;
     /* border: 1px solid orange; */
     box-shadow: 0px 0px 5px 1px #ccc;
 }
@@ -398,7 +399,7 @@ figure img {
     max-width: 1170px;
     margin: auto;
     display: flex;
-    box-shadow: 0px 0px 2px 1px #ccc;
+    /* box-shadow: 0px 0px 2px 1px #ccc; */
 
 }
 
